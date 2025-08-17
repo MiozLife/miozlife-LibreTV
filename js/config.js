@@ -121,6 +121,261 @@ const API_SITES = {
         api: 'https://www.kuaikan-api.com/api.php/provide/vod/',
         name: '快看|点播',
         adult: true
+    },
+    source21: {
+        api: 'https://xzcjz.com/api.php/provide/vod/',
+        name: '熊掌|点播',
+        adult: true
+    },
+    source22: {
+        api: 'http://sdzyapi.com/api.php/provide/vod/',
+        name: '闪电|点播',
+        adult: true
+    },
+    source23: {
+        api: 'https://m3u8.apiyhzy.com/api.php/provide/vod/',
+        name: '樱花|点播',
+        adult: true
+    },
+    source24: {
+        api: 'https://collect.wolongzyw.com/api.php/provide/vod/',
+        name: '卧龙|点播',
+        adult: true
+    },
+    source25: {
+        api: 'http://www.ahjiuman.com/api.php/provide/vod/at/json',
+        name: '飘花|点播',
+        adult: true
+    },
+    source26: {
+        api: 'https://www.911ysw.top/tianyi.php/provide/vod/',
+        name: '天翼|点播',
+        adult: true
+    },
+    source27: {
+        api: 'https://www.huyaapi.com/api.php/provide/vod/',
+        name: '虎牙|点播',
+        adult: true
+    },
+    source28: {
+        api: 'https://api.apibdzy.com/api.php/provide/vod/',
+        name: '百度|点播',
+        adult: true
+    },
+    source29: {
+        api: 'https://p2100.net/api.php/provide/vod/',
+        name: '飘零|点播',
+        adult: true
+    },
+    source30: {
+        api: 'https://api.wujinapi.com/api.php/provide/vod/',
+        name: '无尽|点播',
+        adult: true
+    },
+    source31: {
+        api: 'https://subocaiji.com/api.php/provide/vod/',
+        name: '速博|点播',
+        adult: true
+    },
+    source32: {
+        api: 'https://caiji.moduapi.cc/api.php/provide/vod/',
+        name: '魔都|点播',
+        adult: true
+    },
+    source33: {
+        api: 'http://zuidazy.me/api.php/provide/vod/',
+        name: '最大|点播',
+        adult: true
+    },
+    source34: {
+        api: 'https://caiji.qhzyapi.com/api.php/provide/vod/',
+        name: '奇虎|点播',
+        adult: true
+    },
+    source35: {
+        api: 'https://hhzyapi.com/api.php/provide/vod/',
+        name: '火狐|点播',
+        adult: true
+    },
+    source36: {
+        api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod/',
+        name: '新浪|点播',
+        adult: true
+    },
+    source37: {
+        api: 'https://www.kuaiyunzy.com/api.php/provide/vod/',
+        name: '快云|点播',
+        adult: true
+    },
+    source38: {
+        api: 'http://haiwaikan.com/api.php/provide/vod',
+        name: '海外看資源',
+        adult: true
+    },
+    source39: {
+        api: 'http://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8',
+        name: '天空資源',
+        adult: true
+    },
+    source40: {
+        api: 'http://siwazyw.cc/api.php/provide/vod',
+        name: '丝袜资源',
+        adult: true
+    },
+    source41: {
+        api: 'http://prinevillesda.org/api.php/provide/vod',
+        name: '网民电影',
+        adult: true
+    },
+    source42: {
+        api: 'http://www.zzrhgg.com/api.php/provide/vod',
+        name: '飘花电影',
+        adult: true
+    },
+    source43: {
+        api: 'http://lovedan.net/api.php/provide/vod',
+        name: '艾旦影视',
+        adult: true
+    },
+    source44: {
+        api: 'http://api.apibdzy.com/api.php/provide/vod',
+        name: '百度资源',
+        adult: true
+    },
+    source45: {
+        api: 'http://www.kuaibozy.com/api.php/provide/vod',
+        name: '快播资源',
+        adult: true
+    },
+    source46: {
+        api: 'http://feisuzy.com/api.php/provide/vod',
+        name: '飞速资源',
+        adult: true
+    },
+    source47: {
+        api: 'http://sdzyapi.com/api.php/provide/vod',
+        name: '闪电资源',
+        adult: true
+    },
+    source48: {
+        api: 'http://api.kuapi.cc/api.php/provide/vod',
+        name: '酷点资源',
+        adult: true
+    },
+    source49: {
+        api: 'http://m3u8.apiyhzy.com/api.php/provide/vod',
+        name: '樱花资源网',
+        adult: true
+    },
+    source50: {
+        api: 'http://m3u8.bdxzyapi.com/api.php/provide/vod',
+        name: '北斗星资源',
+        adult: true
+    },
+    source51: {
+        api: 'http://api.ukuapi.com/api.php/provide/vod',
+        name: 'U酷资源',
+        adult: true
+    },
+    source52: {
+        api: 'http://api.apilyzy.com/api.php/provide/vod',
+        name: '老鸭资源采集',
+        adult: true
+    },
+    source53: {
+        api: 'http://aosikazy.com/api.php/provide/vod',
+        name: '奥斯卡资源网',
+        adult: true
+    },
+    source54: {
+        api: 'http://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8',
+        name: '光速资源',
+        adult: true
+    },
+    source55: {
+        api: 'http://jyzyapi.com/provide/vod/from/jinyingm3u8',
+        name: '金鹰资源',
+        adult: true
+    },
+    source56: {
+        api: 'http://sdzyapi.com/api.php/provide/vod/from/sdm3u8',
+        name: '閃電資源',
+        adult: true
+    },
+    source57: {
+        api: 'http://apittzy.com/api.php/provide/vod',
+        name: '探探资源',
+        adult: true
+    },
+    source58: {
+        api: 'http://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8',
+        name: '快车资源',
+        adult: true
+    },
+    source59: {
+        api: 'http://api.ykapi.net/api.php/provide/vod',
+        name: '影库资源网',
+        adult: true
+    },
+    source60: {
+        api: 'http://slapibf.com/api.php/provide/vod',
+        name: '森林资源',
+        adult: true
+    },
+    source61: {
+        api: 'http://tangrenjie.tv/api.php/provide/vod/at/xm',
+        name: '唐人街',
+        adult: true
+    },
+    source62: {
+        api: 'http://kudian10.com/api.php/provide/vod',
+        name: '酷点资源',
+        adult: true
+    },
+    source63: {
+        api: 'http://collect.wolongzyw.com/api.php/provide/vod',
+        name: '卧龙资源',
+        adult: true
+    },
+    source64: {
+        api: 'http://api.kuapi.cc/api.php/provide/vod',
+        name: '酷点资源',
+        adult: true
+    },
+    source65: {
+        api: 'http://lehootv.com/api.php/provide/vod',
+        name: '乐活影视',
+        adult: true
+    },
+    source66: {
+        api: 'http://vipmv.cc/api.php/provide/vod',
+        name: '天堂资源',
+        adult: true
+    },
+    source67: {
+        api: 'http://39kan.com/api.php/provide/vod',
+        name: '39影視',
+        adult: true
+    },
+    source68: {
+        api: 'http://api.1080zyku.com/inc/api.php/provide/vod',
+        name: '优质资源库',
+        adult: true
+    },
+    source69: {
+        api: 'http://vod-demo.onrender.com/pubdovod.php',
+        name: '開放電影',
+        adult: true
+    },
+    source70: {
+        api: 'http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8',
+        name: '量子資源',
+        adult: true
+    },
+    source71: {
+        api: 'http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8',
+        name: '紅牛資源',
+        adult: true
     }
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
@@ -205,7 +460,7 @@ const SECURITY_CONFIG = {
 // 添加多个自定义API源的配置
 const CUSTOM_API_CONFIG = {
     separator: ',',           // 分隔符
-    maxSources: 20,            // 最大允许的自定义源数量
+    maxSources: 100,            // 最大允许的自定义源数量
     testTimeout: 5000,        // 测试超时时间(毫秒)
     namePrefix: 'Custom-',    // 自定义源名称前缀
     validateUrl: true,        // 验证URL格式
