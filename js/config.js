@@ -23,8 +23,103 @@ const SITE_CONFIG = {
 // API站点配置
 const API_SITES = {
     source1: {
-        api: 'http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8',
-        name: '紅牛資源',
+        api: 'https://haiwaikan.com/api.php/provide/vod/',
+        name: '海外看|点播🪜',
+        adult: true
+    },
+    source2: {
+        api: 'https://360zy.com/api.php/provide/vod/',
+        name: '360|点播',
+        adult: true
+    },
+    source3: {
+        api: 'https://www.heimuer.tv/api.php/provide/vod',
+        name: '黑木耳|点播',
+        adult: true
+    },
+    source4: {
+        api: 'http://ys9.cttv.vip/api.php/provide/vod/',
+        name: '刺桐|点播',
+        adult: true
+    },
+    source5: {
+        api: 'http://gwcms.cttv.vip/api.php/provide/vod/',
+        name: '官网|点播',
+        adult: true
+    },
+    source6: {
+        api: 'https://yyff.540734621.xyz/api.php/provide/vod/',
+        name: '业余|点播',
+        adult: true
+    },
+    source67: {
+        api: 'https://hw8.live/api.php/provide/vod/',
+        name: '华为吧|点播',
+        adult: true
+    },
+    source8: {
+        api: 'https://iqyi.xiaohuangrentv.com/api.php/provide/vod/',
+        name: '小黄人|点播',
+        adult: true
+    },
+    source9: {
+        api: 'https://api.niuniuzy.me/api.php/provide/vod/',
+        name: '牛牛|点播',
+        adult: true
+    },
+    source10: {
+        api: 'https://cj.yayazy.net/api.php/provide/vod/',
+        name: '丫丫|点播',
+        adult: true
+    },
+    source11: {
+        api: 'https://api.ukuapi.com/api.php/provide/vod/',
+        name: 'U酷|点播',
+        adult: true
+    },
+    source12: {
+        api: 'https://jszyapi.com/api.php/provide/vod',
+        name: '极速|点播',
+        adult: true
+    },
+    source13: {
+        api: 'https://suoniapi.com/api.php/provide/vod/',
+        name: '索尼|点播',
+        adult: true
+    },
+    source14: {
+        api: 'https://ikunzyapi.com/api.php/provide/vod/',
+        name: 'ikun|点播',
+        adult: true
+    },
+    source15: {
+        api: 'http://cj.ffzyapi.com/api.php/provide/vod/',
+        name: '非凡|点播',
+        adult: true
+    },
+    source16: {
+        api: 'https://cj.lziapi.com/api.php/provide/vod/',
+        name: '量子|点播',
+        adult: true
+    },
+    source17: {
+        api: 'https://bfzyapi.com/api.php/provide/vod/',
+        name: '暴风|点播',
+        adult: true
+    },
+    source18: {
+        api: 'https://www.hongniuzy2.com/api.php/provide/vod/',
+        name: '红牛|点播',
+        adult: true
+    },
+    source19: {
+        api: 'https://www.feisuzyapi.com/api.php/provide/vod/',
+        name: '飞速|点播',
+        adult: true
+    },
+    source20: {
+        api: 'https://www.kuaikan-api.com/api.php/provide/vod/',
+        name: '快看|点播',
         adult: true
     }
     //ARCHIVE https://telegra.ph/APIs-08-12
